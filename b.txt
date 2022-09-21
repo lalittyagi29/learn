@@ -1,1 +1,2 @@
 b file
+chnage something in b file
